@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Dalia's Personal Site</title>
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="me circle-cropped.png" alt="Dalia's foto profile" width="200" height="200"></td>
+      <td><h1>Dalia Boștină</h1>
+      <p><em>I want a professional reconversion,I am learnig <strong><a href="https://en.wikipedia.org/wiki/Web_development">web development.</a> </strong></em></p>
+      <p>I love coffee. I💜life.</p></td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Education</h3>
+  <ul>
+    <li>Master Degree in <a href="https://en.wikipedia.org/wiki/Environmental_engineering">Environmental Engineering</a> </li>
+    <li>Degree in chemical engineering</li>
+  </ul>
+  <hr>
+  <h3>Work Experience</h3>
+  <table cellspacing="10">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2017-2018</td>
+        <td>Production Planner at Omnia Plast</td>
+      </tr>
+      <tr>
+        <td>2018-2020</td>
+        <td>Production Planner at Roquet Eastern Europe</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+      <table cellspacing="10">
+        <tr>
+          <td>HTML5 </td>
+          <td>⭐⭐</td>
+        </tr>
+          <tr>
+            <td>Team player </td>
+            <td>⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Analitical thinking  </td>
+            <td>⭐⭐⭐⭐</td>
+          </tr>
+      </table>
+  <hr>
+  <a href="hobbies.html">My Hobbies</a>
+  <a href="Contact Me.html">Contact Me</a>
+</body>
+</html>
